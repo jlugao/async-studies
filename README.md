@@ -35,7 +35,7 @@ Async study group
 
 # Logs
 
-## day 1 - 
+## day 1
 
 - Planning
 - Core Concepts
