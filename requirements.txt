@@ -1,0 +1,4 @@
+trio
+ipython
+black
+pylint
