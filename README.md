@@ -43,3 +43,13 @@ Async study group
 - Core Concepts
 - [Trio docs](https://trio.readthedocs.io/en/stable/)
 - [Notes](./week_1/README.md)
+
+## day 2
+
+- Review of last week
+- Review of what is GIL
+- reading and implementation of [An Echo Client](https://trio.readthedocs.io/en/stable/tutorial.html#an-echo-client)
+- Echo server was copied so we can have something to run against
+- Extra credit hack the client so that we can input arbitrary text in the client console
+- [Trio docs](https://trio.readthedocs.io/en/stable/)
+- [Notes](./week_2/README.md)
