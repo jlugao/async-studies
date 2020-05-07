@@ -63,3 +63,4 @@ skipped
 - Review of Last week.
 - Reading and studying of echo server example.
 - projects definition. Chat, Catalog and DeadDrop.
+- projects will be saved on the folder trio-projects with a subfolder for each person
