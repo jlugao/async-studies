@@ -37,14 +37,14 @@ Async study group
 
 # Logs
 
-## day 1
+## week 1
 
 - Planning
 - Core Concepts
 - [Trio docs](https://trio.readthedocs.io/en/stable/)
 - [Notes](./week_1/README.md)
 
-## day 2
+## week 2
 
 - Review of last week
 - Review of what is GIL
@@ -53,3 +53,13 @@ Async study group
 - Extra credit hack the client so that we can input arbitrary text in the client console
 - [Trio docs](https://trio.readthedocs.io/en/stable/)
 - [Notes](./week_2/README.md)
+
+## week 3
+
+skipped
+
+## week 4
+
+- Review of Last week.
+- Reading and studying of echo server example.
+- projects definition. Chat, Catalog and DeadDrop.
